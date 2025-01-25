@@ -2,3 +2,6 @@ Receta para hacer una torta
 paso1: Comprar ingredientes
 paso2: mezclas ingredientes
 paso3: batir
+paso4: poner en un molde
+paso5: prender el horno
+paso6: ponerno en el horno
