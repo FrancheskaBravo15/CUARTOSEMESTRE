@@ -4,3 +4,5 @@ Huevo
 Azucar
 Sal
 Vainilla 
+canela
+mantequilla
