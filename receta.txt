@@ -5,3 +5,6 @@ paso3: batir
 paso4: poner en un molde
 paso5: prender el horno
 paso6: ponerno en el horno
+paso 7: sacarlo del horno 
+paso8: decorarlo 
+paso 9: darselo a Angel 
