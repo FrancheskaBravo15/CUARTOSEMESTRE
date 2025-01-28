@@ -7,3 +7,5 @@ Vainilla
 canela
 mantequilla
 crema pastlera
+chispas
+malvaviscos
